@@ -1,0 +1,15 @@
+table,td{
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+
+body{
+    background-color: darkgray;
+}
+
+.kek_cella{
+    background-color: blue;
+}
+.zold_cella{
+    background-color: green;
+}

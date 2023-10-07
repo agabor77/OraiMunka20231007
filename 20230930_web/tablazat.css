@@ -1,0 +1,23 @@
+header{
+    background-color: aqua;
+    height: 200px;
+}
+
+table{
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+td{
+    padding: 10px;
+}
+table, td{
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+.zoldCella{
+    background-color: green;
+}
+.feketeCella_feherBetu{
+    background-color: black;
+    color: white;
+}

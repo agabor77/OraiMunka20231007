@@ -1,0 +1,24 @@
+table,td{
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+
+body{
+    background-color: darkgray;
+}
+
+#cella_4{
+    background-color: red;
+}
+
+#cella_8{
+    background-color: yellow;
+}
+
+.zold_cella{
+    background-color: green;
+}
+
+.kek_cella{
+    background-color: blue;
+}

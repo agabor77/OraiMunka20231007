@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+
+#elsoBekezdes, #utolsoBekezdes{
+    background-color: coral;
+}
+
+#masodikBekezdes {
+    margin: 10px;
+    border-top: black dotted 10px;
+    border-bottom: blue dashed 10px;
+    border-left: yellow solid 10px;
+    border-right: darkgreen double 10px;
+}
+
+#harmadikBekezdes{
+    border: red dashed 3px; padding: 15px;
+}
+
+#negyedikBekezdes{
+    background-image: url(./css/kep2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
