@@ -1,0 +1,72 @@
+#elso{
+    background-color: green;
+    line-height: 100px;
+}
+p{
+    color: black;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+img{
+    padding: 0px 10px;
+    float: left;
+    height: 200px;
+}
+
+table, td{
+    clear: both;
+    border: 1px black solid;
+    border-collapse: collapse;
+    background-color: white;
+}
+#kepes{
+    background-image: url(./vegyes\ feladatok/smiley.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+ul li{
+    list-style-image: url(./vegyes\ feladatok/smiley2.png);
+    list-style-position: inside;
+}
+ol li{
+    list-style-image: none;
+}
+
+#utolso a{
+    text-decoration: none;
+}
+#utolso p{
+    text-indent: 50px;
+    text-align: justify;
+    
+}
+
+#utolso{
+    border: gray 1px solid;
+    margin: 0 50px 0 50px;
+    padding: 30px 0 30px 0;
+}
+
+#utolso h1{
+    color: black;
+    text-align: left;
+}
+
+#legutolso h2{
+    text-decoration: underline;
+}
+#legutolso p{
+    font-weight: bold;
+}
+#legutolso h4{
+    font-style: italic;
+}
+#paris{
+    border-radius: 500px;
+}
